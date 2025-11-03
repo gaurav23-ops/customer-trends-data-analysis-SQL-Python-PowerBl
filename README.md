@@ -15,7 +15,7 @@ Columns: Subscription status, gender, category, shipping type, purchase amount, 
 
 Format: CSV
 ## Dashboard
-<img width="1443" height="805" alt="Screenshot 2025-11-04 004543" src="[Customer_behavior_dashboard.png]" />
+<img width="1660" height="676" alt="Customer_behavior_dashboard" src="https://github.com/gaurav23-ops/customer-trends-data-analysis-SQL-Python-PowerBl/blob/main/Customer_behavior_dashboard.png" />
 
 
 ## Tools & Technologies
