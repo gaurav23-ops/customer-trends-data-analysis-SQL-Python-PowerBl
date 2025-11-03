@@ -1,5 +1,6 @@
-#Customer Behavior Analysis Dashboard
-#Overview
+# Customer Behavior Analysis Dashboard
+
+# Overview
 
 This project analyzes customer behavior using Python, SQL, and Power BI to uncover insights on purchasing trends, revenue performance, and demographic impact.
 It demonstrates the end-to-end data analytics process — from data loading and cleaning to visualization and reporting.
